@@ -67,7 +67,7 @@ def fetch_usr_tips(user_id):
         a['len'] = len(item['text'])
         a['text'] = item['text'].encode('utf-8')
         a['venue name'] = item['venue']['name'].encode('utf-8')
-        a['timespam'] = str(item['createdAt'])
+        a['timestamp'] = str(item['createdAt'])
         a['venue country'] = venue_country
 
         if 'photo' in item:

@@ -28,7 +28,7 @@ Guess language 0.2(https://pypi.python.org/pypi/guess-language )
                    { 
                        "category": "Food",     
                        "polarity": 0.049(_sentiment test score_),      
-                       "timespam": "1450378655",      
+                       "timestamp": "1450378655",      
                        "text": "xxxxx",      
                        "len": 148(_length of the text_),      
                        "photo": "y ",      
